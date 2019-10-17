@@ -17,3 +17,4 @@
 >     |- subscrib()   -> 订阅执行内容(一般为修改状态的函数)<br/>
 >     |- dispatch()   -> 发布 action 触发执行内容<br/>
 > 
+> 至此 基础redux 已经实现  代码地址: https://github.com/wanghang2017/reduxLearn/tree/1.0.0-light
